@@ -1,9 +1,13 @@
 # PS Chosen for Internal Hackathon (File Name from the drive folder)
+**BRANCH:** [LINK](https://github.com/VatsalKhosla/SIH_INTERNAL_ROUND_1_Pied_Piper/tree/master)
 
-Project Description: Provide a concise description of your project, including its purpose and key features.
-Technologies Used: List the technologies, programming languages, and tools used in the project.
+Project Description: This project is a SocialCalc-like spreadsheet application designed to provide users with a comprehensive and user-friendly spreadsheet experience. It includes user authentication for secure login, logout, and registration, as well as features for adding and deleting sheets, rows, and columns. Users can share sheets with others for collaboration. The application is built with a robust backend to handle spreadsheet data and user interactions efficiently.
 
-Technologies Used: List the technologies, programming languages, and tools used in the project.
+Technologies Used: Frontend: React, HTML, CSS
+Backend: Node.js, Express.js
+Database: MongoDB 
+Authentication: JWT 
+Version Control: Git/GitHub
 
 ## Team Details
 
