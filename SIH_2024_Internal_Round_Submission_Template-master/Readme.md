@@ -27,7 +27,7 @@ Version Control: Git/GitHub
 ## Project Links
 
 - **Internal Presentation:** [Internal Presentation](SIH_2024_Internal_Round_Submission_Template-master/files/Internal_PPT_Pied_Piper.pdf)
-- **Final SIH Presentation:** [Final SIH Presentation](SIH_2024_Internal_Round_Submission_Template-master/files/SIH_ PPT_Pied_Piper.pdf)
+- **Final SIH Presentation:** [Final SIH Presentation](SIH_2024_Internal_Round_Submission_Template-master/files/SIH_PPT_Pied_Piper.pdf)
 - **Video Demonstration:** [Watch Video](https://youtu.be/hqq3wppD0dY?si=B1eeWepIYu8jHCpq)
 - **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
 - **Source Code:** [GitHub Repository](https://github.com/VatsalKhosla/SIH_INTERNAL_ROUND_1_Pied_Piper.git)
