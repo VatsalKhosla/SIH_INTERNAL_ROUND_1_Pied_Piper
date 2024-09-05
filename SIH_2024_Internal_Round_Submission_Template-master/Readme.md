@@ -10,7 +10,7 @@ Authentication: JWT
 Version Control: Git/GitHub
 
 ## How to Run
-1. git clone {https://github.com/VatsalKhosla/SIH_INTERNAL_ROUND_1_Pied_Piper.git}
+1. git clone {https://github.com/VatsalKhosla/SIH_INTERNAL_ROUND_1_Pied_Piper.git }
 2. cd ./code/src/
 3. node index.js
 
